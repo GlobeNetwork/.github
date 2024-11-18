@@ -10,7 +10,7 @@
 
 > [Globalwide Games](https://github.com/GlobalwideGames)
 
-> [Carbon Network](https://github.com/novadevlabs)
+> [Carbon Network](https://github.com/carbonnetwork-dev)
 
 ## Meet Our Developers:
 
