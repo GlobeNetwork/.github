@@ -6,11 +6,11 @@
 ## [Our Portfolio](https://night-x.com)
 
 **Organizations**:
-> [GlobeNetwork](https://github.com/GlobeNetwork)
+> [Globe Network](https://github.com/GlobeNetwork)
 
-> [GlobalwideGames](https://github.com/GlobalwideGames)
+> [Globalwide Games](https://github.com/GlobalwideGames)
 
-> [NovaLabs](https://github.com/novadevlabs)
+> [Carbon Network](https://github.com/novadevlabs)
 
 ## Meet Our Developers:
 
