@@ -3,8 +3,6 @@
 
 # Globe Network
 
-## [Our Portfolio](https://night-x.com)
-
 **Organizations**:
 > [Globe Network](https://github.com/GlobeNetwork)
 
