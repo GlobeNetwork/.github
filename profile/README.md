@@ -10,7 +10,7 @@
 
 > [Globalwide Games](https://github.com/GlobalwideGames)
 
-> [Carbon Network](https://github.com/carbonnetwork-dev)
+> [Globe Proxy](https://github.com/GlobeProxy)
 
 ## Meet Our Developers:
 
