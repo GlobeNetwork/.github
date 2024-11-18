@@ -1,6 +1,5 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/GlobeNetwork/.github/main/profile/globe.png" />
-</p>
 
 # Night Network
 
@@ -16,3 +15,4 @@
 ## Meet Our Developers:
 
 > [Globe](https://github.com/GlobeTheDev)
+</p>
